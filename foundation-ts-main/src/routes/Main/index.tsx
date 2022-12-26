@@ -1,6 +1,6 @@
 import React from 'react'
 import MainHeader from 'components/01_MainHeader'
-import MainMessage from 'components/02_MainMessage/MainMessage'
+import MainMessage from 'components/02_MainMessage'
 import Greeting from 'components/Greeting'
 import CalendarDday from 'components/CalendarDday'
 import AccountList from 'components/AccountList'

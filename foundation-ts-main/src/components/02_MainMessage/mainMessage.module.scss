@@ -1,0 +1,30 @@
+.backgroundImage {
+    background-image: url('../../static/img/patron.png');
+}
+.inviteMsgBg {
+    height: 38vw;
+    width: 100%;
+    background-color: #ebd3bb;
+    position: relative;
+    text-align: center;
+}
+
+.inviteMsg {
+    position: absolute;
+    top: 21vw;
+    transform: translate(50%);
+    width: 50%;
+    font-size: 4.5vw;
+    color: #805338;
+    letter-spacing: 3px;
+}
+
+.invitationTxt {
+    text-align: center;
+    font-size: 4vw;
+    line-height: 9vw;
+    background-color: #ebd3bb;
+    padding-bottom: 20vw;
+    color: #5c5d5d;
+    letter-spacing: -2px;
+}
