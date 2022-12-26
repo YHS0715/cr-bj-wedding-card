@@ -13,8 +13,8 @@ const MainHeader = () => {
                 메인 사진
                 예식 일시
                 */}
-            <img className={styles.frame} src={frameimages} />
-            <img className={styles.main_img} src={mainimg} />
+            <img className={styles.frame} src={frameimages} alt="frame"/>
+            <img className={styles.main_img} src={mainimg} alt="main_img"/>
             <div className={styles.names}>
                 범준 ♥︎ 채림&nbsp;결혼합니다
             </div>
