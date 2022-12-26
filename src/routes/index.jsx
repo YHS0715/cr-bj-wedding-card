@@ -9,7 +9,8 @@ const App = () => {
     <div className={styles.appWrapper}>
       <div className={styles.app}>
         <Routes>
-          <Route path='/' element={<Main />} />
+        <Route path='/' element={<Main />} />
+          <Route path='/cr-bj-wedding-card/' element={<Main />} />
           <Route path='*' element={<Page404 />} />
         </Routes>
       </div>
