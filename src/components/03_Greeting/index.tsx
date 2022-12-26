@@ -1,7 +1,7 @@
 import React from 'react';
 import style from './greeting.module.scss';
 
-import profile from 'static/img/couple_profile.jpg'
+// import profile from 'static/img/couple_profile.jpg'
 
 const Greeting = () => {
     return (
