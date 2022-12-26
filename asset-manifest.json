@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cr-bj-card/static/css/main.c55dbb05.css",
-    "main.js": "/cr-bj-card/static/js/main.019b2462.js",
-    "static/js/787.c14a87de.chunk.js": "/cr-bj-card/static/js/787.c14a87de.chunk.js",
-    "static/media/main.jpg": "/cr-bj-card/static/media/main.aac641dcd1675ca3aab7.jpg",
-    "static/media/patron.png": "/cr-bj-card/static/media/patron.84fd4d8f864ae0924a1c.png",
-    "static/media/main_img.png": "/cr-bj-card/static/media/main_img.8d328f39f4f65db26785.png",
-    "static/media/contact_bg_m.jpeg": "/cr-bj-card/static/media/contact_bg_m.a24c9f6d9c77b3cabca7.jpeg",
-    "static/media/contact_bg.jpeg": "/cr-bj-card/static/media/contact_bg.33bcc04e31a45c888e44.jpeg",
-    "index.html": "/cr-bj-card/index.html",
-    "main.c55dbb05.css.map": "/cr-bj-card/static/css/main.c55dbb05.css.map",
-    "main.019b2462.js.map": "/cr-bj-card/static/js/main.019b2462.js.map",
-    "787.c14a87de.chunk.js.map": "/cr-bj-card/static/js/787.c14a87de.chunk.js.map"
+    "main.css": "/cr-bj-wedding-card/static/css/main.d8ab7760.css",
+    "main.js": "/cr-bj-wedding-card/static/js/main.c92876c8.js",
+    "static/js/787.f1f6e293.chunk.js": "/cr-bj-wedding-card/static/js/787.f1f6e293.chunk.js",
+    "static/media/main.jpg": "/cr-bj-wedding-card/static/media/main.aac641dcd1675ca3aab7.jpg",
+    "static/media/patron.png": "/cr-bj-wedding-card/static/media/patron.84fd4d8f864ae0924a1c.png",
+    "static/media/main_img.png": "/cr-bj-wedding-card/static/media/main_img.8d328f39f4f65db26785.png",
+    "static/media/contact_bg_m.jpeg": "/cr-bj-wedding-card/static/media/contact_bg_m.a24c9f6d9c77b3cabca7.jpeg",
+    "static/media/contact_bg.jpeg": "/cr-bj-wedding-card/static/media/contact_bg.33bcc04e31a45c888e44.jpeg",
+    "index.html": "/cr-bj-wedding-card/index.html",
+    "main.d8ab7760.css.map": "/cr-bj-wedding-card/static/css/main.d8ab7760.css.map",
+    "main.c92876c8.js.map": "/cr-bj-wedding-card/static/js/main.c92876c8.js.map",
+    "787.f1f6e293.chunk.js.map": "/cr-bj-wedding-card/static/js/787.f1f6e293.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c55dbb05.css",
-    "static/js/main.019b2462.js"
+    "static/css/main.d8ab7760.css",
+    "static/js/main.c92876c8.js"
   ]
 }
