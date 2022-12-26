@@ -11,35 +11,13 @@
     z-index: 0
 }
 
-// .main_img {
-//     width: 80vw;
-//     position: absolute;
-//     top: 34vw;
-//     left: 50%;
-//     transform: translate(-50%);
-//     z-index: -1;
-// }
- 
-//main3 기준 확대
-// .main_img {
-//     width: 80vw;
-//     position: absolute;
-//     top: 45vw;
-//     left: 62%;
-//     transform: translate(-50%);
-//     z-index: -1;
-//     scale: 125%;
-// }
-
-//main1 기준 확대
 .main_img {
     width: 80vw;
     position: absolute;
-    top: 18vw;
-    left: 56%;
+    top: 36vw;
+    left: 50%;
     transform: translate(-50%);
     z-index: -1;
-    scale: 115%;
 }
 
 .names {
