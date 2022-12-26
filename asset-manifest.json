@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cr-bj-wedding-card/static/css/main.b4d4f53a.css",
-    "main.js": "/cr-bj-wedding-card/static/js/main.97f9e7cf.js",
+    "main.js": "/cr-bj-wedding-card/static/js/main.d4f49389.js",
     "static/js/787.f1f6e293.chunk.js": "/cr-bj-wedding-card/static/js/787.f1f6e293.chunk.js",
     "static/media/main.jpg": "/cr-bj-wedding-card/static/media/main.aac641dcd1675ca3aab7.jpg",
     "static/media/patron.png": "/cr-bj-wedding-card/static/media/patron.84fd4d8f864ae0924a1c.png",
@@ -10,11 +10,11 @@
     "static/media/contact_bg.jpeg": "/cr-bj-wedding-card/static/media/contact_bg.33bcc04e31a45c888e44.jpeg",
     "index.html": "/cr-bj-wedding-card/index.html",
     "main.b4d4f53a.css.map": "/cr-bj-wedding-card/static/css/main.b4d4f53a.css.map",
-    "main.97f9e7cf.js.map": "/cr-bj-wedding-card/static/js/main.97f9e7cf.js.map",
+    "main.d4f49389.js.map": "/cr-bj-wedding-card/static/js/main.d4f49389.js.map",
     "787.f1f6e293.chunk.js.map": "/cr-bj-wedding-card/static/js/787.f1f6e293.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4d4f53a.css",
-    "static/js/main.97f9e7cf.js"
+    "static/js/main.d4f49389.js"
   ]
 }
